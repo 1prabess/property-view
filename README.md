@@ -1,7 +1,8 @@
 
----
+
 
 # Property View - Django Practice Project
+A Django web app for uploading, processing, and visualizing property data from CSV files using Pandas. The app displays key insights through charts and graphs.
 ## Features
 
 - Upload property data from CSV files.
@@ -53,5 +54,4 @@ Ensure your CSV file follows this format:
 
 3. Access the app at `http://127.0.0.1:8000`.
 
----
 
